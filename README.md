@@ -1,6 +1,6 @@
 # HAIM8 Website
 
-A professional, board-ready McKinsey-style pitch deck transformed into a modern, multi-page B2B SaaS marketing website with glassmorphic design elements.
+A professional, multi-page B2B SaaS marketing website with glassmorphic design elements.
 
 ## 🎯 Overview
 
